@@ -33,11 +33,11 @@ const Hero = () => (
 
       {/* Photo */}
       <div className="flex-shrink-0 animate-fade-up" style={{ animationDelay: "0.15s" }}>
-        <div className="w-56 h-72 md:w-72 md:h-96 rounded-2xl overflow-hidden border-4 border-accent shadow-lg">
+        <div className="w-56 h-80 md:w-72 md:h-[28rem] rounded-2xl overflow-hidden border-4 border-accent shadow-lg">
           <img
             src={shraddhaPhoto}
             alt="Shraddha Kokane"
-            className="w-full h-full object-cover object-center"
+            className="w-full h-full object-cover object-[center_30%]"
           />
         </div>
       </div>
