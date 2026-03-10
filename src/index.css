@@ -6,44 +6,44 @@
 
 @layer base {
   :root {
-    --background: 210 20% 98%;
-    --foreground: 215 25% 17%;
+    --background: 222 47% 6%;
+    --foreground: 210 40% 92%;
 
-    --card: 0 0% 100%;
-    --card-foreground: 215 25% 17%;
+    --card: 222 47% 9%;
+    --card-foreground: 210 40% 92%;
 
-    --popover: 0 0% 100%;
-    --popover-foreground: 215 25% 17%;
+    --popover: 222 47% 9%;
+    --popover-foreground: 210 40% 92%;
 
-    --primary: 224 76% 53%;
+    --primary: 224 76% 58%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 214 95% 93%;
-    --secondary-foreground: 215 25% 17%;
+    --secondary: 222 40% 14%;
+    --secondary-foreground: 210 40% 92%;
 
-    --muted: 220 14% 96%;
-    --muted-foreground: 215 13% 45%;
+    --muted: 222 30% 14%;
+    --muted-foreground: 215 20% 60%;
 
-    --accent: 214 95% 93%;
-    --accent-foreground: 224 76% 53%;
+    --accent: 224 50% 16%;
+    --accent-foreground: 224 76% 68%;
 
-    --destructive: 0 84% 60%;
+    --destructive: 0 62% 50%;
     --destructive-foreground: 0 0% 100%;
 
-    --border: 220 13% 83%;
-    --input: 220 13% 83%;
-    --ring: 224 76% 53%;
+    --border: 222 30% 18%;
+    --input: 222 30% 18%;
+    --ring: 224 76% 58%;
 
     --radius: 0.5rem;
 
-    --sidebar-background: 0 0% 98%;
-    --sidebar-foreground: 240 5.3% 26.1%;
-    --sidebar-primary: 240 5.9% 10%;
-    --sidebar-primary-foreground: 0 0% 98%;
-    --sidebar-accent: 240 4.8% 95.9%;
-    --sidebar-accent-foreground: 240 5.9% 10%;
-    --sidebar-border: 220 13% 91%;
-    --sidebar-ring: 217.2 91.2% 59.8%;
+    --sidebar-background: 222 47% 8%;
+    --sidebar-foreground: 210 40% 85%;
+    --sidebar-primary: 224 76% 58%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 222 30% 14%;
+    --sidebar-accent-foreground: 210 40% 85%;
+    --sidebar-border: 222 30% 18%;
+    --sidebar-ring: 224 76% 58%;
 
     --font-heading: 'Plus Jakarta Sans', sans-serif;
     --font-body: 'Inter', sans-serif;
