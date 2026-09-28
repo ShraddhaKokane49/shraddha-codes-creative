@@ -11,10 +11,9 @@ const About = () => (
       <div className="mt-12 max-w-2xl mx-auto">
         <h3 className="text-xl text-foreground mb-4">Introduction</h3>
         <p className="font-body text-muted-foreground leading-relaxed">
-          Hello, I am Shraddha Kokane, a Computer Science student at Vidyalankar Institute of
+          Hello, I am Shraddha Kokane, a Computer Science Student at Vidyalankar Institute of
           Technology, Mumbai. I have a keen interest in frontend development and user interface
-          design. I enjoy transforming ideas into functional and visually appealing digital
-          experiences. I am always eager to learn new technologies and frameworks and apply them
+          design. I enjoy transforming ideas into functional and visually appealing digital experiences. I am also exploring artificial intelligence and modern web technologies. I am always eager to learn new technologies and frameworks and apply them
           to create meaningful and user-centered solutions.
         </p>
       </div>

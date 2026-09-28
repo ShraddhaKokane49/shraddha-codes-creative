@@ -5,6 +5,8 @@ const goals = [
   "Build scalable and user-friendly digital applications",
   "Continuously learn emerging web technologies",
   "Contribute to impactful projects that improve user experiences",
+  "My short-term goal is to gain practical experience through internships and real-world projects", 
+  "My long-term goal is to become a skilled software developer specializing in AI and web technologies",
 ];
 
 const CareerGoals = () => (
