@@ -1,73 +1,26 @@
-# Welcome to your Lovable project
+# Shraddha's Digital Canvas
 
-## Project info
+Create a modern, responsive personal e-portfolio website for a Computer Science student named Shraddha Kokane. The website should have a professional, clean, and minimal UI design with a blue and white theme, smooth scrolling, modern typography, card-based sections, and subtle animations. The design should feel similar to modern developer portfolios. The portfolio must be fully responsive for desktop, tablet, and mobile devices. --- HOMEPAGE / HERO SECTION The homepage must prominently display my professional photo in the hero section. Place the photo beside the introduction text. Display the following information clearly: Name: Shraddha Kokane Title: Frontend Developer | UI/UX Design Enthusiast Tagline: Turning ideas into engaging digital experiences through clean design and intuitive interfaces. Short Introduction: I am a Computer Science student passionate about frontend development and UI/UX design. I enjoy transforming ideas into visually engaging and functional digital experiences. Add two buttons below the introduction: View Portfolio Contact Me The navigation bar should include the following sections: Home About Education Skills Projects Experience Career Goals Contact --- ABOUT / PROFILE OVERVIEW Section Title: Profile Overview Content: Computer Science student with a strong interest in Frontend Development and UI/UX design. Experienced in designing interactive prototypes and structured user flows using Figma. Passionate about building clean, accessible, and visually engaging digital experiences. --- INTRODUCTION SECTION Section Title: Introduction Hello, I am Shraddha Kokane, a Computer Science student at Vidyalankar Institute of Technology, Mumbai. I have a keen interest in frontend development and user interface design. I enjoy transforming ideas into functional and visually appealing digital experiences. I am always eager to learn new technologies and frameworks and apply them to create meaningful and user-centered solutions. --- EDUCATION SECTION Section Title: Education Degree: B.Tech in Computer Science Institute: Vidyalankar Institute of Technology, Mumbai Duration: 2024 – 2028 Current CGPA: 9.3 Description: Actively involved in building projects that apply theoretical knowledge into practical applications. --- SKILLS / EXPERTISE SECTION Section Title: Expertise and Strengths Display skills using icons or cards. Technical Skills: Frontend Development HTML CSS JavaScript Programming Languages C C++ Java Python Databases MySQL PostgreSQL Design Tools Figma UI Prototyping Strengths: Strong attention to detail in interface design Creative problem solving Focus on improving user experience Good collaboration and communication in team projects --- EXPERIENCE AND ACHIEVEMENTS Section Title: Experience & Achievements Role: Frontend Developer and Graphic Designer – Startup Collaboration Responsibilities: Contributed to branding and digital presence of the startup Designed ad creatives for digital marketing and promotions Certifications: NPTEL Java Certification – IIT Kharagpur (Elite Gold) NPTEL Data Analysis Certification – IIT Kharagpur --- PROJECTS SECTION Section Title: Selected Projects Project 1 SmartCare – Healthcare Application Description: Designed a mobile healthcare application to simplify doctor appointment booking. Key Features: Clean and accessible UI Readable typography Easy navigation Improved usability --- Project 2 TaskFlow – Smart To-Do and Productivity App Description: Designed a task management application interface for efficient task tracking. Focus: Minimal interface Structured layout Reduced cognitive load Improved productivity --- CAREER GOALS SECTION Section Title: Career Goals Develop strong expertise in frontend development and UI/UX design Build scalable and user-friendly digital applications Continuously learn emerging web technologies Contribute to impactful projects that improve user experiences --- CONTACT SECTION Section Title: Let’s Connect Phone: +91 8369335760 Email: shraddhakokane11@gmail.com LinkedIn: shraddha-linkedin.com Location: Thane, Mumbai, Maharashtra – 421301 Include a contact form with fields: Name Email Message Also include social media icons. --- DESIGN REQUIREMENTS Use a modern blue and white color theme Add smooth scrolling and subtle animations Use cards for projects and skills Add hover effects on project cards Include icons for each section Make the design professional and minimal Ensure the site is fully responsive The homepage must prominently show my photo in the hero section The final output should be a clean, visually engaging portfolio website suitable for an academic e-portfolio submission.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+This project was built with [Lovable](https://lovable.dev).
 
-## How can I edit this code?
+**Live app**: https://shraddha-codes-creative.lovable.app
 
-There are several ways of editing your application.
+## Build with Lovable
 
-**Use Lovable**
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/ce0df2f2-dd47-4539-b4c1-feda4408077b).
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+- **Ship faster**: describe what you want to build and Lovable handles the code.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
-Changes made via Lovable will be committed automatically to this repo.
+## Development
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
+git clone <this-repository-url>
+cd <repository-name>
 npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
